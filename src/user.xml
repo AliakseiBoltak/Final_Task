@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<test xmlns="www.epam.tc.task.xml.by">
+
+	<user ID="1">
+	<login>Admin</login>
+	<pass>12345</pass>
+	<role>1</role>
+	<block_status>0</block_status>
+	</user>
+	
+	<user ID="2">
+	<login>User</login>
+	<pass>user</pass>
+	<role>0</role>
+	<block_status>0</block_status>
+	</user>
+	
+</test>
+

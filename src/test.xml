@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<test xmlns="www.epam.tc.task.xml.by">
+
+
+	<subject ID="1">
+		<name>java</name>
+	</subject>
+	
+	<subject ID="2">
+		<name>python</name>
+	</subject>
+	
+	<subject ID="3">
+		<name>ruby</name>
+	</subject>
+	
+	
+</test>
+
